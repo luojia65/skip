@@ -3,6 +3,8 @@ name = "skip"
 version = "0.0.0"
 authors = ["luojia65 <me@luojia.cc>"]
 edition = "2018"
+description = "Simple skip list written in Rust"
+license = "WTFPL"
 
 [dependencies]
 rand = "0.6"
